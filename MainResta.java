@@ -18,7 +18,7 @@ public class MainResta {
         resta.setA(a);
         resta.setB(b);
 
-        // Realizar la resta usando el método sumar de la instancia de Resta
+        // Realizar la resta usando el método resta de la instancia de Resta
         resta.restar();
 
         // Obtener el resultado de la instancia de Resta
